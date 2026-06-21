@@ -147,8 +147,14 @@ Cada etapa precisa ser concluída para avançar para a próxima.
 
 Para aprovadores:
 
-1. Acesse o menu **“Aprovações”**
+1. Acesse o menu **“Aprovar Solicitações”**
+
+![MenuAprovarSolicitacao](docs/prints/08-AprovarSolicitacao.png)
+
 2. Abra a solicitação pendente
+
+![AprovarDetalhesSolicitacao](docs/prints/09-AprovarDetalhesSolicitacao.png)
+
 3. Analise os dados e documentos
 4. Escolha uma ação:
 
@@ -156,7 +162,7 @@ Para aprovadores:
    * **Recusar**
 5. Confirme a ação
 
-Se aprovada, a solicitação segue para a próxima etapa.
+Se aprovada, a solicitação segue para a próxima etapa.A depender do fluxo que estar configurada para essa empresa !!
 
 ---
 
