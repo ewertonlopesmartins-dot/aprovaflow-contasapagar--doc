@@ -78,6 +78,7 @@ Caso o fornecedor ainda não esteja cadastrado no sistema, será necessário rea
 2. Clique em **Novo Fornecedor**
 
 ![NovoFornecedor](docs/prints/05-NovoFornecedor.png)
+
 3. Preencha as informações solicitadas:
 
    * Nome do fornecedor
