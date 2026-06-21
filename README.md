@@ -47,19 +47,19 @@ Para criar uma solicitação de pagamento:
 2. Clique em **“Solicitar Pagamento”**
 ![Menu-SolicitaPagamento](docs/prints/02-SolicitarPagamento.png)
 3. Preencha os campos:
-
-   * Fornecedor
-   * Unidade / Centro de Custo
+![Form-SolicitacaoPagamento](docs/prints/03-FormSolicitarPagamento.png)
+   * Fornecedor (Obs: caso Fornecedor desejado nao apareça na lista cadastrar no Menu Fornecedores (Seção **"Como Cadastrar Fornecedor"**)
+   * Unidade / Centro de Custo (Caso Não encontre na listagem, solicitar admin para cadastrar)
    * Descrição da despesa
    * Valor do pagamento
    * Data de vencimento
-   * Forma de pagamento (Boleto, Pix ou TED)
+   * Forma de pagamento (Boleto, Pix ou TED) (Dados do Pix e TEd , ja vem do cadastro do fornecedor , pode editar direto na solicitação e depois corrigir o cadastro do fornecedor) 
 4. Anexe os documentos necessários:
 
    * Boleto (se houver)
    * Nota fiscal
-   * Documentos complementares
-5. Clique em **Enviar solicitação**
+   * Documentos complementares (Obs: esse doc em pdf server como um relatorio mais detalhado da solicitação caso precisar ou campo descrição da despesa não seja suficiente!)
+5. Clique em **Solicitar**
 
 Após isso, a solicitação entrará no fluxo de aprovação.
 
