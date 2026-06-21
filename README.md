@@ -104,8 +104,9 @@ Após o cadastro, o fornecedor ficará disponível para seleção nas solicitaç
 Para localizar um fornecedor já cadastrado:
 
 1. Acesse o menu **Fornecedores**
-2. Utilize os filtros de pesquisa
-3. Pesquise pelo nome ou CPF/CNPJ
+![MenuFornecedor](docs/prints/04-MenuFornecedores.png)
+2. Clique no icone de Olho para visualizar os dados do Fornecedor
+![DetalhesFornecedor](docs/prints/06-DetalhesFornecedor.png)
 
 ### Editar Fornecedor
 
