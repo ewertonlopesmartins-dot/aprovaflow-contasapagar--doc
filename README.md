@@ -2,7 +2,7 @@
 
 ## 1. Introdução
 
-![Tela de Login](/docs/prints/01-PaginaInicial.png)
+![Tela de Login](docs/prints/01-PaginaInicial.png)
 
 O sistema **Contas a Pagar** foi criado para facilitar o controle de solicitações de pagamento dentro da empresa.
 
