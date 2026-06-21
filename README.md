@@ -115,10 +115,17 @@ Para localizar um fornecedor já cadastrado:
 
 Caso seja necessário atualizar alguma informação:
 
-1. Localize o fornecedor
-2. Clique em **Editar**
-3. Atualize os dados necessários
-4. Clique em **Salvar**
+1. Acesse o menu fornecedor
+
+![MenuFornecedor](docs/prints/04-MenuFornecedores.png)
+
+2. Localize o fornecedor
+3. Clique em **Editar**
+
+![editarFornecedor](docs/prints/07-EditarFornecedor.png)
+
+4. Atualize os dados necessários
+5. Clique em **Salvar**
 
 As alterações ficarão disponíveis imediatamente para novas solicitações.
 
