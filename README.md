@@ -188,12 +188,19 @@ A solicitação será encerrada com status **Recusado**. Isso reiniciar o fluxo 
 
 Após a aprovação, o financeiro realiza o lançamento:
 
-1. Acesse a solicitação aprovada
-2. Clique em **“Lançar Pagamento”**
-3. Confirme os dados
-4. O sistema registrará a solicitação como **Lançado**
+1. Acesse menu **Realizar Pagamento**
 
-Isso significa que o pagamento foi registrado internamente, mas ainda não foi pago.
+![MenuRealizarPagamento](docs/prints/11-RealizarPagamento.png)
+
+2. Acesse a solicitação aprovada
+
+![SelecionarSolicitacao](docs/prints/09-AprovarDetalhesSolicitacao.png)
+
+3. Confirme os dados
+4. Clique no botão em **“Lançar”**
+5. O sistema registrará a solicitação como **Lançado**
+
+Isso significa que o pagamento foi registrado internamente(Fica no aguardo da confirmação do real pagamento da solicitação), mas ainda não foi pago.
 
 ---
 
