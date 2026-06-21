@@ -65,7 +65,55 @@ Após isso, a solicitação entrará no fluxo de aprovação.
 
 ---
 
-## 4. Como Funciona o Fluxo
+## 4. Como Cadastrar um Fornecedor
+
+Caso o fornecedor ainda não esteja cadastrado no sistema, será necessário realizar o cadastro antes de criar a solicitação de pagamento.
+
+### Passo a Passo
+
+1. Acesse o menu **Fornecedores**
+2. Clique em **Novo Fornecedor**
+3. Preencha as informações solicitadas:
+
+   * Nome do fornecedor
+   * CPF ou CNPJ
+   * Chave Pix (quando aplicável)
+   * Dados bancários
+   * Nome do destinatário do pagamento
+   * CPF ou CNPJ do destinatário
+4. Revise as informações cadastradas
+5. Clique em **Salvar**
+
+Após o cadastro, o fornecedor ficará disponível para seleção nas solicitações de pagamento.
+
+### Importante
+
+* Verifique se o CPF/CNPJ foi informado corretamente.
+* Confirme os dados bancários antes de salvar.
+* Evite cadastrar o mesmo fornecedor mais de uma vez.
+* Em caso de dúvida, consulte o setor financeiro.
+
+### Consultar Fornecedores
+
+Para localizar um fornecedor já cadastrado:
+
+1. Acesse o menu **Fornecedores**
+2. Utilize os filtros de pesquisa
+3. Pesquise pelo nome ou CPF/CNPJ
+
+### Editar Fornecedor
+
+Caso seja necessário atualizar alguma informação:
+
+1. Localize o fornecedor
+2. Clique em **Editar**
+3. Atualize os dados necessários
+4. Clique em **Salvar**
+
+As alterações ficarão disponíveis imediatamente para novas solicitações.
+
+
+## 5. Como Funciona o Fluxo
 
 Depois de enviada, a solicitação segue este caminho:
 
@@ -78,7 +126,7 @@ Cada etapa precisa ser concluída para avançar para a próxima.
 
 ---
 
-## 5. Como Aprovar uma Solicitação
+## 6. Como Aprovar uma Solicitação
 
 Para aprovadores:
 
@@ -95,7 +143,7 @@ Se aprovada, a solicitação segue para a próxima etapa.
 
 ---
 
-## 6. Como Recusar uma Solicitação
+## 7. Como Recusar uma Solicitação
 
 Qualquer aprovador ou financeiro pode recusar uma solicitação quando necessário.
 
@@ -110,7 +158,7 @@ A solicitação será encerrada com status **Recusado**.
 
 ---
 
-## 7. Como Lançar um Pagamento (Financeiro)
+## 8. Como Lançar um Pagamento (Financeiro)
 
 Após a aprovação, o financeiro realiza o lançamento:
 
@@ -123,7 +171,7 @@ Isso significa que o pagamento foi registrado internamente, mas ainda não foi p
 
 ---
 
-## 8. Como Efetuar um Pagamento
+## 9. Como Efetuar um Pagamento
 
 Para concluir o pagamento:
 
@@ -137,7 +185,7 @@ Após isso, o status será alterado para **Pago**.
 
 ---
 
-## 9. Significado dos Status
+## 10. Significado dos Status
 
 ### ⏳ Pendente
 
@@ -169,7 +217,7 @@ A solicitação foi cancelada.
 
 ---
 
-## 10. Recursos Importantes
+## 11. Recursos Importantes
 
 ### 🔎 Detecção de Solicitações Semelhantes
 
@@ -185,7 +233,7 @@ Todo pagamento exige o envio de um comprovante em PDF para registro.
 
 ---
 
-## 11. Boas Práticas de Uso
+## 12. Boas Práticas de Uso
 
 * Sempre confira os dados antes de enviar a solicitação
 * Anexe todos os documentos necessários
@@ -195,7 +243,7 @@ Todo pagamento exige o envio de um comprovante em PDF para registro.
 
 ---
 
-## 12. Perguntas Frequentes (FAQ)
+## 13. Perguntas Frequentes (FAQ)
 
 ### ❓ Posso editar uma solicitação depois de enviada?
 
@@ -227,7 +275,7 @@ Significa que o financeiro registrou a solicitação, mas o pagamento ainda não
 
 ---
 
-## 13. Considerações Finais
+## 14. Considerações Finais
 
 Este sistema foi criado para organizar e dar transparência ao processo de pagamentos.
 
