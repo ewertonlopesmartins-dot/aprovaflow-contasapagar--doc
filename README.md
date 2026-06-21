@@ -72,8 +72,11 @@ Caso o fornecedor ainda não esteja cadastrado no sistema, será necessário rea
 ### Passo a Passo
 
 1. Acesse o menu **Fornecedores**
+
 ![MenuFornecedor](docs/prints/04-MenuFornecedores.png)
+
 2. Clique em **Novo Fornecedor**
+
 ![NovoFornecedor](docs/prints/05-NovoFornecedor.png)
 3. Preencha as informações solicitadas:
 
