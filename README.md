@@ -174,10 +174,13 @@ Para recusar:
 
 1. Abra a solicitação
 2. Clique em **Recusar**
-3. Informe o motivo da recusa
+
+![RecusarSolicitacao](docs/prints/10-RecusarSolicitacao.png)
+
+3. Informe o motivo da recusa(**Isso e obrigatorio caso queira recusar por algum motivo**)
 4. Confirme
 
-A solicitação será encerrada com status **Recusado**.
+A solicitação será encerrada com status **Recusado**. Isso reiniciar o fluxo de aprovação , a solicitação volta para o solicitante corrigir!!
 
 ---
 
