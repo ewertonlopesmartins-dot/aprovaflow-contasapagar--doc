@@ -104,8 +104,11 @@ Após o cadastro, o fornecedor ficará disponível para seleção nas solicitaç
 Para localizar um fornecedor já cadastrado:
 
 1. Acesse o menu **Fornecedores**
+
 ![MenuFornecedor](docs/prints/04-MenuFornecedores.png)
-2. Clique no icone de Olho para visualizar os dados do Fornecedor
+
+3. Clique no icone de Olho para visualizar os dados do Fornecedor
+
 ![DetalhesFornecedor](docs/prints/06-DetalhesFornecedor.png)
 
 ### Editar Fornecedor
