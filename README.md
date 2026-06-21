@@ -259,7 +259,7 @@ A solicitação foi cancelada.
 
 O sistema pode identificar solicitações parecidas para evitar pagamentos duplicados.
 
-Se isso acontecer, será exibido um aviso antes de enviar.
+Se isso acontecer, será exibido um aviso e vai aparecer um botão de cadastrar mesmo assim!. 
 
 ---
 
@@ -283,13 +283,13 @@ Todo pagamento exige o envio de um comprovante em PDF para registro.
 
 ### ❓ Posso editar uma solicitação depois de enviada?
 
-Depende do status. Em geral, apenas solicitações pendentes podem ser alteradas.
+Depende do status. Em geral, apenas solicitações pendentes e recusadas podem ser alteradas.
 
 ---
 
 ### ❓ O que acontece se minha solicitação for recusada?
 
-Ela será encerrada e não seguirá no fluxo. Você pode criar uma nova solicitação corrigida.
+Se sua solicitação foi recusada durante o processo , ela vai voltar para sua dashboard com status recusado , você pode editar e corrigir o que foi apontado ou excluir e criar uma nova solicitação , se possivel opte sempre por corrigir a solicitação recusada!
 
 ---
 
@@ -301,7 +301,7 @@ Depende do fluxo de aprovação da sua empresa.
 
 ### ❓ Posso cancelar uma solicitação?
 
-Sim, desde que ela ainda não tenha sido paga.
+So quem pode cancelar um solicitação e o tipo Aprovador e Financeiro, exemplo de quando pode ser usado o cancelar , caso seja identificado duas solicitações igual ou pelo aprovador ou financeiro.
 
 ---
 
