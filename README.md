@@ -209,12 +209,15 @@ Isso significa que o pagamento foi registrado internamente(Fica no aguardo da co
 Para concluir o pagamento:
 
 1. Acesse a solicitação no status **Lançado**
-2. Clique em **“Efetuar Pagamento”**
-3. Anexe o comprovante em PDF
-4. Informe a data do pagamento
+2. Clique no botão em **“Pagar”** (Obs:  esse botao so aparece caso a solitação esteja com status lancado)
+
+![botaopagar](docs/prints/12-BotaoPAgar.png)
+
+3. Anexe o comprovante em PDF (**Obrigatorio**)
+4. Informe a data do pagamento (**Obrigatorio**)
 5. Confirme a operação
 
-Após isso, o status será alterado para **Pago**.
+Após isso, o status será alterado para **Pago**. assim se encerrar o ciclo da solicitação  que aparece para o solicitante com status pago e o comprovante de pagamento anexado para futuras consultas)
 
 ---
 
