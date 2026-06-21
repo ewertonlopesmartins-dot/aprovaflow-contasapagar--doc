@@ -44,7 +44,8 @@ O sistema possui diferentes tipos de usuários:
 Para criar uma solicitação de pagamento:
 
 1. Acesse o sistema
-2. Clique em **“Nova Solicitação”**
+2. Clique em **“Solicitar Pagamento”**
+![Menu-SolicitaPagamento](docs/prints/02-SolicitarPagamento.png)
 3. Preencha os campos:
 
    * Fornecedor
